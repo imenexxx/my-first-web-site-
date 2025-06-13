@@ -1,0 +1,36 @@
+body{
+  background-color: #f4cfda;
+}
+p {
+  color: #000000;
+
+}
+h1 {
+   color:#e45983;
+   text-align: center;
+}
+h2 {
+   color: #e45983;
+   text-align-last:justify;
+}
+h3 {
+   color: #e45983;
+   text-align:start
+
+}
+.cadre {
+  border-style: dotted;
+   border-color: #e45983;
+   border-radius: 20px;
+
+}
+.titre {
+  border-radius: 20px;
+  border: dotted #e45983 ;
+  padding : 10px;
+  margin: 10px;
+  width: 100px;
+}
+table,th, td {
+  border: 1px solid #e45983;
+}
